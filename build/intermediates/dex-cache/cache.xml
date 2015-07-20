@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\classes-10282ab449818a6fdff0ddad0e6af49dce4dddfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.19.0\e3f11020c2c812112803d252d1392872d3f619c8\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.19.0-fc4b7cafdaeae96dc4fbbf41c99af500262869f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-6ed394810ddd718e27a16c298a2e572f97ce2799.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-ab17b96841ada56f37e5052c610e48177bf178f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.19.0-adc3a99a37f13e924908d9c8a2c62bea87509b63.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.19.0-acdcb4eedf1320c57516f8a922ecc505f59a2298.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.19.0\ba2aafb867f6af469f936ae76426cf0a280094bd\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.19.0-2146a92d84ec63cab94cf2f58d5a118235bd44c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\google-http-client-1.19.0-2548893e351b2b5abaf6b87ab0c4b46cffa68aaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\classes-c03b97ad9d653716c83cef11db39a0c870ad857e.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-d39265ff1e064e0372ba89222bf3ff923bfee6db.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\classes-7d5e83e4e28eb6dda2ef531a969fafe128d30bbe.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\backend\build\libs\backend-android-endpoints.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e11fed243b19a764b796d1903d8fe1d9e3a7c35">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\backend-android-endpoints-98dddebab371927f3bf3c9c868e9e552fd959722.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-875f4257b2b54995496c678bb4e1a2b7a099e47e.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.0\6a21277d9bebe267b7ddee028b241eebc756c040\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\google-api-client-1.19.0-68ac0d4067c2bebccc91746408f85f909c7be3dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdi\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\mdi\Documents\Entwicklung\Sonstiges\github\Trinkspiel\Dorscht\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-9a1a605fdbf1e17601eafc5274717e1d3a489e2b.jar" />
+    </item>
+
+</items>
